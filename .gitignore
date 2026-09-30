@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs and cache
+.cache/
+*.log
+
+# Streamlit skills
+.agents/skills/developing-with-streamlit
+
+# Raw datasets
+data/raw/*
+
+# Large, redundant analysis exports
+reports/exports/demand_classification.csv
+reports/exports/product_store_demand.csv
+reports/exports/inventory_economics.csv
+reports/exports/demand_forecast_evaluation.csv
