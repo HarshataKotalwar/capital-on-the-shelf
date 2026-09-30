@@ -133,3 +133,8 @@ Consequently, the results should be interpreted as an exploratory decision-suppo
 **Harshata Kotalwar**
 
 Business Analytics | Data Analytics | AI/ML
+## 🚀 Live Demo
+
+Explore the interactive dashboard:
+
+**[Open Capital on the Shelf Dashboard](https://harshatakotalwar-capital-on-the-shelf-dashboardapp-bnaanb.streamlit.app/)**
